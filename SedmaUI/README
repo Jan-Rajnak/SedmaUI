@@ -1,0 +1,3 @@
+This version is optimized for minimax algorithms, uses self looping voids for playing.
+Working, tested, debug-friendly.
+Colorful console output.
